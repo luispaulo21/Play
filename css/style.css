@@ -133,8 +133,8 @@ img {
     z-index: 999;
 }
 
-.cabecalho__principal .cabecalho__menuMobile a.ativo svg path,
-.cabecalho__principal .cabecalho__menuMobile a:focus svg path {
+.cabecalho__principal .cabecalho__menuMobile a:hover svg path,
+.cabecalho__principal .cabecalho__menuMobile a.ativo svg path {
     fill: #FF0000;
 }
 
